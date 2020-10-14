@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+User-agent: Mediapartners-Google
+Allow:/
+User-agent: Googlebot-Mobile
+Allow:/
+Sitemap:http://www.gnewsly.co.za/sitemap.xml
